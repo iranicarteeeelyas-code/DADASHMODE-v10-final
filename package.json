@@ -1,0 +1,15 @@
+{
+  "name": "dadashmode-v7",
+  "version": "7.1.0",
+  "description": "داداش‌مود · موتور نمایش ۷ — موتور گرافیک، دستیار کارگردان، سبک‌های سینماتیک و اجرای مسابقهٔ یوتیوب",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node --check server.js",
+    "lint": "node --check server.js tools/serve.mjs tools/edge-tts.mjs tools/v7-selftest.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

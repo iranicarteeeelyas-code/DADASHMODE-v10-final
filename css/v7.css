@@ -1,0 +1,20 @@
+/* DADASHMODE v7 UI layer: navy + gold, large targets; classic v5 UI untouched */
+.dm5-dock .v7-dock{background:oklch(0.8 0.16 85);color:oklch(0.2 0.03 265);border-color:oklch(0.8 0.16 85)}
+#dm5d-v7{background:oklch(0.17 0.04 265);border-color:oklch(0.32 0.05 265)}
+#dm5d-v7 .dm5-card{background:oklch(0.21 0.045 265);border-color:oklch(0.3 0.05 265)}
+#dm5d-v7 .dm5-btn{background:oklch(0.28 0.05 265)}#dm5d-v7 .dm5-btn.pri{background:oklch(0.8 0.16 85);color:oklch(0.2 0.03 265)}#dm5d-v7 .dm5-btn.ok{background:oklch(0.6 0.16 150)}
+#dm5d-v7 .dm5-btn.big{padding:10px 16px;font-size:15px}
+.v7-gal{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px}
+.v7-anim{all:unset;cursor:pointer;display:flex;flex-direction:column;gap:4px;padding:10px 12px;border-radius:12px;background:oklch(0.24 0.05 265);border:1px solid oklch(0.34 0.06 265);transition:transform .15s cubic-bezier(.22,1,.36,1)}
+.v7-anim:hover{transform:translateY(-2px);border-color:oklch(0.8 0.16 85)}.v7-anim small{color:oklch(0.75 0.03 265);font-size:11px}
+.v7-book{max-height:55vh;overflow:auto;white-space:pre-wrap;font-size:13px;margin-top:8px}
+.dm5-btn:focus-visible,.v7-anim:focus-visible{outline:3px solid oklch(0.85 0.16 85);outline-offset:2px}
+/* desktop broadcast console: V7 panel docked, stage keeps priority */
+body.v7-ui-desktop #dm5d-v7{display:flex;left:auto;right:12px;width:460px}
+body.v7-ui-desktop main{margin-right:470px}
+/* phone / touch: one column, thumb-sized controls */
+body.v7-ui-phone #dm5d-v7{display:flex;left:0;right:0;top:auto;bottom:0;width:100vw;height:62vh;border-radius:20px 20px 0 0}
+body.v7-ui-phone #dm5d-v7 .dm5-btn{min-height:48px;min-width:48px;font-size:16px;flex:1 1 44%;justify-content:center}
+body.v7-ui-phone .dm5-dock{top:auto;bottom:64vh;transform:none}
+body.v7-ui-phone .col-ros,body.v7-ui-phone .col-side{display:none}
+@media (prefers-reduced-motion:reduce){.v7-anim{transition:none}}

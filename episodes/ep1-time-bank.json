@@ -1,0 +1,1215 @@
+{
+ "format": "dadashmode-episode/3",
+ "v7book": "7.1",
+ "name": "داداش‌مود · بانک زمان · قسمت ۱ (کتاب V7)",
+ "unit": "ثانیه",
+ "startBank": 45,
+ "speakers": [
+  {
+   "id": "host",
+   "name": "جمنای (داور · صدای پشتیبان اپ)",
+   "provider": "gemini",
+   "voice": "Leda"
+  }
+ ],
+ "players": [
+  {
+   "id": "elias",
+   "name": "اِلیاس",
+   "color": "#ff2738",
+   "symbol": "▲",
+   "key": "a"
+  },
+  {
+   "id": "emad",
+   "name": "عِماد",
+   "color": "#00c98d",
+   "symbol": "●",
+   "key": "l"
+  }
+ ],
+ "theme": {
+  "font": "Lalezar",
+  "name": "استودیو قرمز",
+  "bg1": "#12060a",
+  "bg2": "#4f0d1c",
+  "accent": "#ff3b3b",
+  "accent2": "#ffd23f",
+  "ink": "#fff7ec",
+  "shade": "#7a0f1f"
+ },
+ "brief": {
+  "summary": "دوئل الیاس و عماد طبق کتاب کارگردانی V7: شروع ۴۵|۴۵ · برج لیوان · فاصله · دوئل ساندویچ · بانک باز شد · پازل چسبی و چالش چسب · رونمایی (سقف ۳۰) · فروشگاه ۵ کارت · شوت ریسک · گاوصندوق سه‌ایستگاهی · کیف سه‌لایه.",
+  "tone": "جمنای داور خشک، منصف و کم‌حرف؛ هیچ عددی جز آنچه کارگردان از اپ می‌خواند نمی‌گوید. حین دوئل ساندویچ سکوت کامل.",
+  "characters": [
+   "اِلیاس · قرمز · E · کلید A",
+   "عِماد · سبز · M · کلید L",
+   "جمنای · داور هوش مصنوعی (بنفش) · اپ = منبع حقیقت اعداد"
+  ],
+  "beats": [
+   "هوک و معرفی (۴۵|۴۵)",
+   "راند ۱ تا ۴ + پیچش «بانک باز شد»",
+   "رونمایی، فروشگاه کارت، شوت ریسک",
+   "فینال گاوصندوق و کیف سه‌لایه"
+  ],
+  "directorNotes": [
+   "اپ تنها منبع اعداد است؛ جمنای فقط تکرار می‌کند",
+   "ایمنی دوئل ساندویچ: ناظر هایملیچ، کلمهٔ توقف «قرمز»",
+   "رمز کیف قبل از REC در اپ مهر شود"
+  ]
+ },
+ "segments": [
+  {
+   "id": "r1qctzxr",
+   "type": "title",
+   "game": "generic",
+   "title": "داداش‌مود",
+   "subtitle": "بانک زمان · هوک",
+   "rules": [],
+   "duration": 30,
+   "reward": 10,
+   "notes": "هوک ۰۰:۰۰–۰۰:۳۰ · تایمر نارنجی ۰۰:۰۸ تا صفر + تیک‌تاک · فلش‌فوروارد نقاشی کور و شوت ریسک (بدون لو دادن نتیجه) · ثانیهٔ ۱۳ الیاس: «هر بازی رو ببریم، برای آخر ویدیو زمان می‌گیریم.» · عماد: «و آخرش… این جعبه مال منه.»",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "b088drnv",
+     "speaker": "host",
+     "emotion": "suspense",
+     "text": "سه… دو…",
+     "direction": ""
+    },
+    {
+     "id": "28564pkh",
+     "speaker": "host",
+     "emotion": "serious",
+     "text": "و من داورم. پس تقلب ممنوع.",
+     "direction": ""
+    }
+   ],
+   "v7": "READY"
+  },
+  {
+   "id": "rn1li9w3",
+   "type": "bank",
+   "game": "generic",
+   "title": "بانک زمان",
+   "subtitle": "هر نفر ۴۵ ثانیه",
+   "rules": [],
+   "duration": 30,
+   "reward": 10,
+   "notes": "۳٫۲ معرفی و قانون · کارت قوانین اپ: سقف فاصله ۳۰ و کف ۲۰ دیده می‌شود ولی گفته نمی‌شود · الیاس: «قانون ساده‌ست: هر کدوم ۴۵ ثانیه داریم…»",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "mn4byy9w",
+     "speaker": "host",
+     "emotion": "warm",
+     "text": "آماده‌ام. من فقط چیزی رو می‌گم که می‌بینم. و الیاس… دیدمت که داشتی می‌خندیدی.",
+     "direction": ""
+    },
+    {
+     "id": "h0fj10qn",
+     "speaker": "host",
+     "emotion": "serious",
+     "text": "من طرف هیچ‌کس نیستم. طرف قانونم.",
+     "direction": ""
+    }
+   ],
+   "v7": "READY"
+  },
+  {
+   "id": "xhjoajaf",
+   "type": "intro",
+   "game": "cup",
+   "title": "برج لیوان با یک دست",
+   "subtitle": "راند یک",
+   "rules": [],
+   "duration": 30,
+   "reward": 10,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "n4u6ei3n",
+     "speaker": "host",
+     "emotion": "serious",
+     "text": "راند یک. ده لیوان، فقط با یک دست. برج باید دو ثانیه سالم بمونه.",
+     "direction": ""
+    }
+   ],
+   "v7": "R1"
+  },
+  {
+   "id": "6osw7b60",
+   "type": "rules",
+   "game": "cup",
+   "title": "قوانین برج لیوان",
+   "subtitle": "",
+   "rules": [
+    "۱۰ لیوان · برج ۱-۲-۳-۴",
+    "دست دیگر پشت کمر · دست دوم = خطا و از نو",
+    "سقف ۳۰ ثانیه · هم‌زمان · افتادن = از نو",
+    "برج باید ۲ ثانیه بعد از برداشتن دست سالم بماند",
+    "اولین برج معتبر ۱۰+ · هیچ‌کس: طبقهٔ بیشتر ۵+"
+   ],
+   "duration": 30,
+   "reward": 10,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "adw84w46",
+     "speaker": "host",
+     "emotion": "calm",
+     "text": "ده لیوان، برج یک، دو، سه، چهار.",
+     "direction": ""
+    },
+    {
+     "id": "bgm6q4a7",
+     "speaker": "host",
+     "emotion": "serious",
+     "text": "دست دوم پشت کمر. دست دوم بیاد، خطاست.",
+     "direction": ""
+    },
+    {
+     "id": "1rzfxzx6",
+     "speaker": "host",
+     "emotion": "calm",
+     "text": "سی ثانیه، هم‌زمان. ریخت؟ از نو.",
+     "direction": ""
+    },
+    {
+     "id": "ev53vfme",
+     "speaker": "host",
+     "emotion": "suspense",
+     "text": "برج باید دو ثانیه سالم بمونه.",
+     "direction": ""
+    },
+    {
+     "id": "bywzx51s",
+     "speaker": "host",
+     "emotion": "excited",
+     "text": "اولین برج سالم، ده ثانیه.",
+     "direction": ""
+    }
+   ],
+   "v7": "R1"
+  },
+  {
+   "id": "wldh2sax",
+   "type": "countdown",
+   "game": "generic",
+   "title": "دست دوم پشت کمر · شروع!",
+   "subtitle": "",
+   "rules": [],
+   "duration": 30,
+   "reward": 10,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [],
+   "v7": "R1"
+  },
+  {
+   "id": "23xcwc61",
+   "type": "play",
+   "game": "cup",
+   "title": "برج لیوان",
+   "subtitle": "راند یک",
+   "rules": [],
+   "duration": 30,
+   "reward": 10,
+   "notes": "دکمهٔ «معتبر؟» شمارش ۲ ثانیه را شروع می‌کند (نه جمنای) · کلید: ۲/۱ معتبر · ۳/۴ ریخت",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "j7898ncz",
+     "speaker": "host",
+     "emotion": "referee",
+     "text": "دست دوم!",
+     "direction": ""
+    },
+    {
+     "id": "2uvqa3yr",
+     "speaker": "host",
+     "emotion": "playful",
+     "text": "برجت زلزله اومد یا خودت زلزله‌ای؟",
+     "direction": ""
+    }
+   ],
+   "v7": "R1"
+  },
+  {
+   "id": "bmj47jew",
+   "type": "intro",
+   "game": "distance",
+   "title": "فاصله را خودت انتخاب کن",
+   "subtitle": "راند دو",
+   "rules": [],
+   "duration": 30,
+   "reward": 10,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "hax00emd",
+     "speaker": "host",
+     "emotion": "serious",
+     "text": "راند دو. خطت رو انتخاب کن. بعد از قفل، عوض نمی‌شه.",
+     "direction": ""
+    }
+   ],
+   "v7": "R2"
+  },
+  {
+   "id": "hifpjhw9",
+   "type": "rules",
+   "game": "distance",
+   "title": "قوانین پرتاب",
+   "subtitle": "",
+   "rules": [
+    "خط ۲ متر ۵+ · ۳ متر ۱۰+ · ۴ متر ۲۰+",
+    "یک بار انتخاب و قفل در اپ",
+    "۳ پرتاب، نوبتی، نفر عقب اول",
+    "اولین گل ارزش خط را می‌گیرد؛ بقیه صفر",
+    "پا روی خط = پرتاب باطل (شمرده می‌شود)"
+   ],
+   "duration": 30,
+   "reward": 10,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "45xtet7a",
+     "speaker": "host",
+     "emotion": "calm",
+     "text": "سه خط: دو متر پنج، سه متر ده، چهار متر بیست ثانیه.",
+     "direction": ""
+    },
+    {
+     "id": "u83rmt8v",
+     "speaker": "host",
+     "emotion": "serious",
+     "text": "یک بار انتخاب می‌کنید و قفل می‌شه.",
+     "direction": ""
+    },
+    {
+     "id": "m0cauus6",
+     "speaker": "host",
+     "emotion": "calm",
+     "text": "سه پرتاب، نوبتی. نفر عقب اول.",
+     "direction": ""
+    },
+    {
+     "id": "6vr01ell",
+     "speaker": "host",
+     "emotion": "excited",
+     "text": "اولین گل، ارزش خط رو می‌گیره.",
+     "direction": ""
+    },
+    {
+     "id": "dalzzm30",
+     "speaker": "host",
+     "emotion": "referee",
+     "text": "پا روی خط، پرتاب باطل.",
+     "direction": ""
+    }
+   ],
+   "v7": "R2"
+  },
+  {
+   "id": "3pitmfxk",
+   "type": "play",
+   "game": "distance",
+   "title": "فاصله را خودت انتخاب کن",
+   "subtitle": "راند دو",
+   "rules": [],
+   "duration": 60,
+   "reward": 20,
+   "notes": "ری‌هوک ۰۳:۰۰ · AI-CAM ۴۵ درجه به سمت سطل",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "85z8xpni",
+     "speaker": "host",
+     "emotion": "referee",
+     "text": "انتخاب قفل شد.",
+     "direction": ""
+    },
+    {
+     "id": "4eaw2cu9",
+     "speaker": "host",
+     "emotion": "playful",
+     "text": "من باد رو نمی‌بینم. پرتابت رو دیدم.",
+     "direction": ""
+    }
+   ],
+   "v7": "R2"
+  },
+  {
+   "id": "7zne6gre",
+   "type": "intro",
+   "game": "sandwich",
+   "title": "دوئل ساندویچ",
+   "subtitle": "راند سه",
+   "rules": [],
+   "duration": 30,
+   "reward": 10,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "p6hm6lrj",
+     "speaker": "host",
+     "emotion": "serious",
+     "text": "راند سه. دوئل ساندویچ. اوّلی که قورت بده، وقت می‌بره.",
+     "direction": ""
+    }
+   ],
+   "v7": "R3_SANDWICH"
+  },
+  {
+   "id": "suq1mxfg",
+   "type": "rules",
+   "game": "sandwich",
+   "title": "قوانین دوئل ساندویچ",
+   "subtitle": "",
+   "rules": [
+    "دو ساندویچ یکسان · دست‌ها پشت کمر تا بوق",
+    "سقف ۶۰ ثانیه · «دهان‌پر» = ساعت می‌ایستد (زرد، موقت)",
+    "۳۰ ثانیه برای قورت + دهان خالی ۲ ثانیه به تروث‌کم",
+    "برنده = اختلاف زمان (کف ۳+ · سقف ۲۰+) · زیر ۱ ثانیه: هر دو ۵+",
+    "برگشت غذا = رد · تکهٔ بیرون بشقاب یا شروع زودتر = ۳ ثانیه جریمه",
+    "کلمهٔ توقف «قرمز» · ایمنی بالاتر از برد"
+   ],
+   "duration": 30,
+   "reward": 10,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "t6er9mv7",
+     "speaker": "host",
+     "emotion": "calm",
+     "text": "دو ساندویچ یکسان. دست‌ها پشت کمر تا بوق.",
+     "direction": ""
+    },
+    {
+     "id": "j7fvljj4",
+     "speaker": "host",
+     "emotion": "serious",
+     "text": "آخرین لقمه رفت تو دهن، دستا بالا.",
+     "direction": ""
+    },
+    {
+     "id": "wnb4bib7",
+     "speaker": "host",
+     "emotion": "calm",
+     "text": "بعد سی ثانیه وقت دارید قورت بدید و دهن خالی نشون بدید.",
+     "direction": ""
+    },
+    {
+     "id": "ev32k167",
+     "speaker": "host",
+     "emotion": "excited",
+     "text": "برنده، اختلاف زمان رو می‌گیره. حداقل سه، حداکثر بیست ثانیه.",
+     "direction": ""
+    },
+    {
+     "id": "t57pq7ee",
+     "speaker": "host",
+     "emotion": "referee",
+     "text": "برگشت غذا یعنی رد.",
+     "direction": ""
+    },
+    {
+     "id": "inl1atr1",
+     "speaker": "host",
+     "emotion": "serious",
+     "text": "هر کس بگه «قرمز»، همه‌چی همون لحظه متوقف می‌شه.",
+     "direction": ""
+    }
+   ],
+   "v7": "R3_SANDWICH"
+  },
+  {
+   "id": "do0smu9y",
+   "type": "countdown",
+   "game": "generic",
+   "title": "سه… دو… یک…",
+   "subtitle": "",
+   "rules": [],
+   "duration": 30,
+   "reward": 10,
+   "notes": "از بوق تا اولین «دهان خالی»: جمنای و کارگردان ساکت (قانون سکوت)",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [],
+   "v7": "R3_SANDWICH"
+  },
+  {
+   "id": "g99ha36x",
+   "type": "play",
+   "game": "sandwich",
+   "title": "دوئل ساندویچ",
+   "subtitle": "راند سه",
+   "rules": [],
+   "duration": 60,
+   "reward": 20,
+   "notes": "کلیدها: ۹/۷ دهان‌پر · ۳/۱ دهان خالی ✔ · ۶/۴ جریمهٔ ۳ ثانیه · Enter تأیید نتیجه · ناظر هایملیچ کنار تروث‌کم · اورژانس ۱۱۵",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "vpqy6qbf",
+     "speaker": "host",
+     "emotion": "playful",
+     "text": "خالیه. مثل یخچال خونه‌ی دانشجویی.",
+     "direction": ""
+    },
+    {
+     "id": "psbpsx62",
+     "speaker": "host",
+     "emotion": "referee",
+     "text": "طبق قانون… رد. ساندویچ حقّ اعتراض نداره.",
+     "direction": ""
+    },
+    {
+     "id": "6m7parw5",
+     "speaker": "host",
+     "emotion": "serious",
+     "text": "استپ! اول قورت، بعد خنده.",
+     "direction": ""
+    }
+   ],
+   "v7": "R3_SANDWICH"
+  },
+  {
+   "id": "ns6gnyjw",
+   "type": "play",
+   "game": "shop",
+   "title": "بانک باز شد",
+   "subtitle": "BANK OPEN · آبی برای خودت · قرمز برای حریف · طلایی برای شجاع‌ها",
+   "rules": [],
+   "duration": 30,
+   "reward": 0,
+   "notes": "پیچش میانی ۰۵:۲۰ · گلیچ طلایی + صدای قفل · ۵ کارت قفل ۶ ثانیه · زوم روی دستکش · هیچ عددی عوض نمی‌شود",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "2ie0duql",
+     "speaker": "host",
+     "emotion": "shock",
+     "text": "نه. بانک باز شد.",
+     "direction": ""
+    },
+    {
+     "id": "j2jfppxj",
+     "speaker": "host",
+     "emotion": "serious",
+     "text": "از الان ثانیه‌ها پول هم هستن. بعد از راند چهار، فروشگاه کارت باز می‌شه.",
+     "direction": ""
+    },
+    {
+     "id": "ywfrgggi",
+     "speaker": "host",
+     "emotion": "suspense",
+     "text": "آبی برای خودت. قرمز برای حریف. طلایی… برای شجاع‌ها.",
+     "direction": ""
+    },
+    {
+     "id": "aoour4um",
+     "speaker": "host",
+     "emotion": "taunt",
+     "text": "می‌تونی. ولی هر چی بخری، از ساعت فینالت کم می‌شه.",
+     "direction": ""
+    },
+    {
+     "id": "793f5eo2",
+     "speaker": "host",
+     "emotion": "playful",
+     "text": "تو راند بعد باهاش آشنا می‌شید.",
+     "direction": ""
+    }
+   ],
+   "v7": "TWIST_BANKOPEN"
+  },
+  {
+   "id": "vlatqlxs",
+   "type": "intro",
+   "game": "glue",
+   "title": "دستکش، پازل و چسب",
+   "subtitle": "راند چهار",
+   "rules": [],
+   "duration": 30,
+   "reward": 10,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "uwvdrmek",
+     "speaker": "host",
+     "emotion": "serious",
+     "text": "راند چهار. دستکش‌ها رو بپوشید. پازل لوگو، شیش تیکه. چیدن با دستکش، چسب بی دستکش. اوّلی که دکمه‌ی تمام رو بزنه، پونزده ثانیه.",
+     "direction": ""
+    }
+   ],
+   "v7": "R4_GLUE"
+  },
+  {
+   "id": "3c9xi8aq",
+   "type": "rules",
+   "game": "glue",
+   "title": "قوانین پازل چسبی",
+   "subtitle": "",
+   "rules": [
+    "پازل ۶ تکهٔ لوگو (۳×۲) · چاپ سیاه‌وسفید",
+    "فاز ۱: چیدن با دستکش",
+    "فاز ۲: چسب بدون دستکش (وقتی هر ۶ تکه روی برگه است)",
+    "فاز ۳: دکمهٔ «تمام» · غلط = لغو + ۵ ثانیه قفل",
+    "سقف ۱۸۰ · اولین تمام معتبر ۱۵+ · هیچ‌کس: درست‌تر ۵+",
+    "چالش چسب (یک بار، نفر دوم): موفق ۱۰/۵ · ناموفق ۵−"
+   ],
+   "duration": 30,
+   "reward": 10,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "5txsvymx",
+     "speaker": "host",
+     "emotion": "calm",
+     "text": "پازل لوگو، شیش تیکه.",
+     "direction": ""
+    },
+    {
+     "id": "x1qa37tm",
+     "speaker": "host",
+     "emotion": "playful",
+     "text": "اول با دستکش می‌چینید.",
+     "direction": ""
+    },
+    {
+     "id": "26xyjyqt",
+     "speaker": "host",
+     "emotion": "calm",
+     "text": "دستکش فقط وقتی درمیاد که هر شیش تیکه روی برگه باشه. بعد چسب.",
+     "direction": ""
+    },
+    {
+     "id": "kk9cr1zw",
+     "speaker": "host",
+     "emotion": "referee",
+     "text": "دکمه‌ی تمام. اگه غلط باشه، لغو و پنج ثانیه قفل.",
+     "direction": ""
+    },
+    {
+     "id": "4bbwycg9",
+     "speaker": "host",
+     "emotion": "excited",
+     "text": "اوّلین تمام درست، پونزده ثانیه.",
+     "direction": ""
+    },
+    {
+     "id": "gb4y8gr3",
+     "speaker": "host",
+     "emotion": "suspense",
+     "text": "نفر دوم یک بار حق داره بگه: چالش!",
+     "direction": ""
+    }
+   ],
+   "v7": "R4_GLUE"
+  },
+  {
+   "id": "gg50plnh",
+   "type": "play",
+   "game": "glue",
+   "title": "دستکش، پازل و چسب",
+   "subtitle": "راند چهار",
+   "rules": [],
+   "duration": 180,
+   "reward": 15,
+   "notes": "کلیدها: ۲/۱ تمام · ۰ غلط · * چالش چسب",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "c1vonj3b",
+     "speaker": "host",
+     "emotion": "referee",
+     "text": "سر گرگ برعکسه. ادامه بدید.",
+     "direction": ""
+    },
+    {
+     "id": "y7rynt88",
+     "speaker": "host",
+     "emotion": "referee",
+     "text": "یه تیکه هنوز رو میزه. دستکش برمی‌گرده.",
+     "direction": ""
+    }
+   ],
+   "v7": "R4_GLUE"
+  },
+  {
+   "id": "yojpaa6g",
+   "type": "play",
+   "game": "glue",
+   "title": "چالش چسب",
+   "subtitle": "تست تکان ← قاب ← تمیزی",
+   "rules": [],
+   "duration": 30,
+   "reward": 10,
+   "notes": "۳ معیار ثابت: تست تکان (کارگردان + تروث‌کم) · قاب و تراز (جمنای) · تمیزی فقط اگر مساوی",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "h4068abg",
+     "speaker": "host",
+     "emotion": "serious",
+     "text": "تست تکان.",
+     "direction": ""
+    },
+    {
+     "id": "ox7itmlo",
+     "speaker": "host",
+     "emotion": "referee",
+     "text": "تشخیص نمی‌دم.",
+     "direction": ""
+    }
+   ],
+   "v7": "GLUE_CHALLENGE"
+  },
+  {
+   "id": "eahinos9",
+   "type": "play",
+   "game": "generic",
+   "title": "رونمایی بانک",
+   "subtitle": "سقف فاصله ۳۰",
+   "rules": [],
+   "duration": 20,
+   "reward": 0,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "1kdj1shv",
+     "speaker": "host",
+     "emotion": "suspense",
+     "text": "سی. دقیقاً روی مرز. قانون اعمال نمی‌شه.",
+     "direction": ""
+    }
+   ],
+   "v7": "REVEAL"
+  },
+  {
+   "id": "bx27wahq",
+   "type": "rules",
+   "game": "shop",
+   "title": "فروشگاه کارت و دردسر",
+   "subtitle": "",
+   "rules": [
+    "🔍 ذره‌بین ۱۰ · آبی · یک بار کمک",
+    "🛡 سپر ۵ · آبی · قرمز را خنثی می‌کند",
+    "🥊 دستکش بوکس ۱۵ · قرمز · حافظه با دستکش",
+    "🌶 معمای تند ۱۰ · قرمز · معمای سخت‌تر",
+    "🪞 آینه ۲۰ · طلایی · قرمز برمی‌گردد",
+    "حداکثر ۲ کارت · فقط ۱ قرمز · مالیات ۵ نفر جلو · کف ۲۰"
+   ],
+   "duration": 30,
+   "reward": 10,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "84tba6yn",
+     "speaker": "host",
+     "emotion": "calm",
+     "text": "ذره‌بین، ده ثانیه. یک بار کمک.",
+     "direction": ""
+    },
+    {
+     "id": "a5soieik",
+     "speaker": "host",
+     "emotion": "calm",
+     "text": "سپر، پنج ثانیه. قرمز رو خنثی می‌کنه.",
+     "direction": ""
+    },
+    {
+     "id": "3m8c8t5u",
+     "speaker": "host",
+     "emotion": "taunt",
+     "text": "دستکش بوکس، پونزده. حافظه با دستکش.",
+     "direction": ""
+    },
+    {
+     "id": "qi5eozgp",
+     "speaker": "host",
+     "emotion": "taunt",
+     "text": "معمای تند، ده. معمای سخت‌تر.",
+     "direction": ""
+    },
+    {
+     "id": "kejx5pso",
+     "speaker": "host",
+     "emotion": "suspense",
+     "text": "آینه، بیست. قرمز برمی‌گرده.",
+     "direction": ""
+    },
+    {
+     "id": "eammwk1w",
+     "speaker": "host",
+     "emotion": "serious",
+     "text": "حداکثر دو کارت. فقط یکی قرمز. مخفی.",
+     "direction": ""
+    }
+   ],
+   "v7": "SHOP"
+  },
+  {
+   "id": "3mqbh9jf",
+   "type": "play",
+   "game": "shop",
+   "title": "فروشگاه کارت",
+   "subtitle": "خرید مخفی · نفر عقب اول",
+   "rules": [],
+   "duration": 60,
+   "reward": 0,
+   "notes": "کلیدها: ۴ تا ۸ کارت برای نفری که نوبت اوست · Enter ثبت/رونمایی",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "mzhx3a1u",
+     "speaker": "host",
+     "emotion": "serious",
+     "text": "فروشگاه کارت باز شد. هر نفر حداکثر دو کارت. فقط یکی قرمز. مخفی.",
+     "direction": ""
+    }
+   ],
+   "v7": "SHOP"
+  },
+  {
+   "id": "laxz265k",
+   "type": "play",
+   "game": "shop",
+   "title": "رونمایی کارت‌ها",
+   "subtitle": "آینه ← سپر ← اجرا",
+   "rules": [],
+   "duration": 20,
+   "reward": 0,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "ezyempzx",
+     "speaker": "host",
+     "emotion": "shock",
+     "text": "آینه! کارت برگشت به صاحبش.",
+     "direction": ""
+    },
+    {
+     "id": "098osq4e",
+     "speaker": "host",
+     "emotion": "referee",
+     "text": "کارت قرمز سوخت. سپر فعال شد.",
+     "direction": ""
+    }
+   ],
+   "v7": "SHOP_REVEAL"
+  },
+  {
+   "id": "eglp11ao",
+   "type": "rules",
+   "game": "risk",
+   "title": "شوت ریسک",
+   "subtitle": "",
+   "rules": [
+    "شرط علنی: ۰ / ۱۰ / ۲۰",
+    "نفر عقب اول اعلام می‌کند",
+    "«همه‌چی ۳۰» فقط برای نفر ۱۵+ ثانیه عقب",
+    "خورد = + شرط · نخورد = − شرط",
+    "بانک هرگز زیر ۲۰ نمی‌رود"
+   ],
+   "duration": 30,
+   "reward": 10,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "sma8gvck",
+     "speaker": "host",
+     "emotion": "calm",
+     "text": "شرط علنی: صفر، ده یا بیست.",
+     "direction": ""
+    },
+    {
+     "id": "xumrn6xw",
+     "speaker": "host",
+     "emotion": "serious",
+     "text": "اول نفر عقب اعلام می‌کنه.",
+     "direction": ""
+    },
+    {
+     "id": "8vu7x6ea",
+     "speaker": "host",
+     "emotion": "suspense",
+     "text": "همه‌چی سی، فقط برای کسی که پونزده ثانیه عقبه.",
+     "direction": ""
+    },
+    {
+     "id": "0jt1pmr6",
+     "speaker": "host",
+     "emotion": "excited",
+     "text": "خورد، شرطت اضافه می‌شه. نخورد، کم می‌شه.",
+     "direction": ""
+    },
+    {
+     "id": "cx9nz5vj",
+     "speaker": "host",
+     "emotion": "referee",
+     "text": "بانک هیچ‌وقت زیر بیست نمی‌ره.",
+     "direction": ""
+    }
+   ],
+   "v7": "RISK"
+  },
+  {
+   "id": "9zbc7ijm",
+   "type": "play",
+   "game": "risk",
+   "title": "شوت ریسک",
+   "subtitle": "شرط علنی",
+   "rules": [],
+   "duration": 60,
+   "reward": 0,
+   "notes": "کلیدها: ۹/۶ الیاس خورد/نخورد · ۷/۴ عماد خورد/نخورد",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "t75cvt4z",
+     "speaker": "host",
+     "emotion": "serious",
+     "text": "شوت ریسک. اوّل نفر عقب اعلام می‌کنه.",
+     "direction": ""
+    },
+    {
+     "id": "h1decgu2",
+     "speaker": "host",
+     "emotion": "referee",
+     "text": "نخورد. دو سانت. دو سانت دردناک.",
+     "direction": ""
+    }
+   ],
+   "v7": "RISK"
+  },
+  {
+   "id": "tyzcic20",
+   "type": "play",
+   "game": "vault",
+   "title": "آماده‌سازی فینال",
+   "subtitle": "داور نزدیک‌تر میاد",
+   "rules": [],
+   "duration": 20,
+   "reward": 0,
+   "notes": "نفر دوم ایزوله ۱۵+ متر · رمز کیف قبل از REC مهر شود",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "7eklgqml",
+     "speaker": "host",
+     "emotion": "suspense",
+     "text": "داور نزدیک‌تر میاد.",
+     "direction": ""
+    }
+   ],
+   "v7": "VAULT_ARMED"
+  },
+  {
+   "id": "v7pqjeay",
+   "type": "rules",
+   "game": "vault",
+   "title": "قانون گاوصندوق",
+   "subtitle": "",
+   "rules": [
+    "ساعت هر نفر = بانکش · اول نفر عقب، بعد جلو",
+    "ایستگاه ۱: نقاشی کور ← کد C1",
+    "ایستگاه ۲: اتاق حافظه، ۸ لیوان · اشتباه ۳− ← کد C2",
+    "ایستگاه ۳: معمای خنده‌دار · غلط = ۵ ثانیه قفل ← کد C3",
+    "کدها = رمز واقعی کیف · رمز غلط = ۵ ثانیه قفل",
+    "بیشترین زمان باقی‌مانده برندهٔ کیف است"
+   ],
+   "duration": 30,
+   "reward": 10,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "gpbjvw9d",
+     "speaker": "host",
+     "emotion": "calm",
+     "text": "ساعت هر نفر، همون بانکشه. اول نفر عقب.",
+     "direction": ""
+    },
+    {
+     "id": "mwfs3t9l",
+     "speaker": "host",
+     "emotion": "calm",
+     "text": "ایستگاه یک: نقاشی کور.",
+     "direction": ""
+    },
+    {
+     "id": "do0lc3fi",
+     "speaker": "host",
+     "emotion": "serious",
+     "text": "ایستگاه دو: اتاق حافظه. هشت لیوان.",
+     "direction": ""
+    },
+    {
+     "id": "14zfgta5",
+     "speaker": "host",
+     "emotion": "playful",
+     "text": "ایستگاه سه: یه معمای خنده‌دار.",
+     "direction": ""
+    },
+    {
+     "id": "6a5j89lt",
+     "speaker": "host",
+     "emotion": "suspense",
+     "text": "سه کد، همون رمز واقعی کیفه.",
+     "direction": ""
+    },
+    {
+     "id": "68v4wc88",
+     "speaker": "host",
+     "emotion": "epic",
+     "text": "هر کی با زمان بیشتر باز کنه، کیف مال اونه.",
+     "direction": ""
+    }
+   ],
+   "v7": "VAULT_ARMED"
+  },
+  {
+   "id": "m2m1b2z7",
+   "type": "play",
+   "game": "vault",
+   "title": "فینال · دویدن اول",
+   "subtitle": "نفر عقب",
+   "rules": [],
+   "duration": 120,
+   "reward": 0,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "f5lk8kiw",
+     "speaker": "host",
+     "emotion": "playful",
+     "text": "حافظه‌ت رفته مرخصی.",
+     "direction": ""
+    },
+    {
+     "id": "yudlm026",
+     "speaker": "host",
+     "emotion": "celebrate",
+     "text": "مغزت روشن شد.",
+     "direction": ""
+    }
+   ],
+   "v7": "RUN1"
+  },
+  {
+   "id": "3updme3c",
+   "type": "play",
+   "game": "vault",
+   "title": "فینال · دویدن دوم",
+   "subtitle": "نفر جلو",
+   "rules": [],
+   "duration": 120,
+   "reward": 0,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "us6x0j8s",
+     "speaker": "host",
+     "emotion": "referee",
+     "text": "نه. پنج ثانیه فکر کن.",
+     "direction": ""
+    }
+   ],
+   "v7": "RUN2"
+  },
+  {
+   "id": "8x1r6x83",
+   "type": "play",
+   "game": "case",
+   "title": "کیف طلایی",
+   "subtitle": "رمز واقعی · رقم به رقم",
+   "rules": [],
+   "duration": 20,
+   "reward": 0,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "n23b8ut2",
+     "speaker": "host",
+     "emotion": "suspense",
+     "text": "برنده‌ی کیف…",
+     "direction": ""
+    }
+   ],
+   "v7": "CASE"
+  },
+  {
+   "id": "ngch8fuq",
+   "type": "play",
+   "game": "case",
+   "title": "لایهٔ ۱ · تاج داداش",
+   "subtitle": "نشان ساندویچ طلایی",
+   "rules": [],
+   "duration": 20,
+   "reward": 0,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "qicf0nhl",
+     "speaker": "host",
+     "emotion": "celebrate",
+     "text": "نشان ساندویچ طلایی. اوّلین نشان روی تاج.",
+     "direction": ""
+    }
+   ],
+   "v7": "CASE_L1"
+  },
+  {
+   "id": "xc7rdvvk",
+   "type": "play",
+   "game": "case",
+   "title": "لایهٔ ۲ · پاکت سرنوشت",
+   "subtitle": "۱۲ پاکت · هیچ‌کس ندیده",
+   "rules": [],
+   "duration": 20,
+   "reward": 0,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "osq7nq0e",
+     "speaker": "host",
+     "emotion": "whisper",
+     "text": "پاکت‌ها رو هیچ‌کس ندیده. حتی من. و من همه چی رو می‌بینم.",
+     "direction": ""
+    }
+   ],
+   "v7": "CASE_L2"
+  },
+  {
+   "id": "r8ponv5x",
+   "type": "play",
+   "game": "case",
+   "title": "لایهٔ ۳ · پاکت مجازات",
+   "subtitle": "بازنده ۲ جعبه از ۶",
+   "rules": [],
+   "duration": 20,
+   "reward": 0,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "jujq8kdm",
+     "speaker": "host",
+     "emotion": "playful",
+     "text": "چون من داورم. و داور عاشق عدالته.",
+     "direction": ""
+    }
+   ],
+   "v7": "CASE_L3"
+  },
+  {
+   "id": "toipp60u",
+   "type": "winner",
+   "game": "generic",
+   "title": "دفاع از تاج",
+   "subtitle": "قسمت بعد · مجازات با رأی کامنت‌ها",
+   "rules": [],
+   "duration": 30,
+   "reward": 10,
+   "notes": "",
+   "issue": "",
+   "status": "ok",
+   "winner": "",
+   "lines": [
+    {
+     "id": "0if8e3fk",
+     "speaker": "host",
+     "emotion": "epic",
+     "text": "قسمت بعد… دفاع از تاج.",
+     "direction": ""
+    }
+   ],
+   "v7": "END"
+  }
+ ],
+ "id": "ep1-time-bank"
+}
